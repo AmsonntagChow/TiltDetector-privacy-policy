@@ -1,76 +1,47 @@
-# Privacy Policy Template
+**Privacy Policy**
 
+This privacy policy applies to the TiltDetector | Aware Series app (hereby referred to as "Application") for mobile devices that was created by Junxian Zhou (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-This Privacy Policy Template is covers the general privacy concerns and regulations. I hope you find it useful and a good starting point in compiling your own privacy policy for use on your own website or app. Feel free to add stuff that I haven't added, and remove stuff that you don't like. If there are ways that I can do things better, you should absolutely report issues or send me a pull request because I love them so much.
+**What information does the Application obtain and how is it used?**
 
+The Application does not obtain any information when you download and use it. Registration is not required to use the Application.
 
-## What is a Privacy Policy
+**Does the Application collect precise real time location information of the device?**
 
-A privacy policy is a description of what you do with personal data.  The critical things to describe in the policy are how you and your website or app collect, use, store, and share or disclose information about people. Providing a privacy policy also helps your users understand what happens to information about them.
+This Application does not collect precise information about the location of your mobile device.
 
-**Note:** A Privacy Policy is not the same as the Terms and Conditions agreement. A Terms and Conditions is the agreement where you include the rules and guidelines that users must agree to in order to use your website or app.
+**Do third parties see and/or have access to information obtained by the Application?**
 
+Since the Application does not collect any information, no data is shared with third parties.
 
-## What is a Personal Data
+**What are my opt-out rights?**
 
-Personal data is any kind of data or information that can be considered personal (identifies an individual):
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-* First and last name
-* Email address
-* Billing and shipping address
-* Credit card information
-* And so on
+**Children**
 
+The Application is not used to knowingly solicit data from or market to children under the age of 13.
 
-## When is a Privacy Policy required
+The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (a375164079@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
-The Privacy Policy is required by law if you collect personal data. One should be provided where your website or app does anything with personal data. A Privacy Policy is required regardless of the type of platform your business operates on or what kind of industry you’re in:
+**Security**
 
-* Website
-* WordPress blog, or any other platform: Joomla, Drupal etc
-* E-commerce store
-* Mobile app: iOS, Android or Windows Phone
-* Facebook app
-* Desktop app
-* Digital product
+The Service Provider is concerned about safeguarding the confidentiality of your information. However, since the Application does not collect any information, there is no risk of your data being accessed by unauthorized individuals.
 
+**Changes**
 
-## How this Privacy Policy Template works
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This document has been drafted in Markdown (MD) and in plain text (TXT), and can be converted to HTML using a huge number of open source and commercially available tools.
+This privacy policy is effective as of 2026-02-26
 
-Elements that need to be filled in have been marked up with double brackets, as follows:
+**Your Consent**
 
-	[["website" or "app"]]
-	[["we" or "I"]]
-	[["us" or "me"]]
-	[["our" or "my"]]
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by the Service Provider.
 
-Make sure to find and fill in them all!
+**Contact Us**
 
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at a375164079@gmail.com.
 
-## Disclaimer
+* * *
 
-You are free to use it on your own website or app. But before using this Privacy Policy Template you should be aware that you are responsible for its contents when published to your own website or app and that includes the accuracy of information.
-
-This Privacy Policy Template is not legal advice, and is no substitute for a real live lawyer. Some places legally require that you have a privacy policy, and require that you describe certain things in it. Some places have (very specific) rules about what you are and aren't allowed to do with info about users. You should definitely talk with a lawyer about all this stuff, and they should definitely read and review your policy.
-
-You should also know that this Privacy Policy Template is provided without any warranty, express or implied, to the fullest extent possible.
-
-
-## License
-
-This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
-
-
-## Author
-
-Arthur Garegnyan
-
-* Email: arthurgareginyan@gmail.com
-
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
-
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
-
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
+This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
